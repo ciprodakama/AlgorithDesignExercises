@@ -17,3 +17,6 @@ Here's the list of topics covered during the lecture and in the 2 Homeworks:
  - Introduction to Game Theory and Equilibria Computation
  - Computing Equilibria in Zero-Sum Games and Efficiency of Equilibria
  - Selfish Routing and Price of Anarchy
+
+Book reference:
+ - J. Kleinberg and E. Tardos, Algorithm Design. Addison Wesley, Pearson Education, 2005. 
