@@ -11,7 +11,7 @@ Here's the list of topics covered during the lecture and in the 2 Homeworks:
  - Dynamic Programming
  - Basics of complexity and NP-completeness
  - Basics of approximation algorithms
- - Linear Programming based approximation algorithms
+ - Linear Programming
  - Basics of Randomized Algorithms
  - Introduction to Game Theory and Equilibria Computation
  - Computing Equilibria in Zero-Sum Games and Efficiency of Equilibria
